@@ -19,30 +19,16 @@ I'm a computer science 💻 enthusiast with interests in programming, machine le
 
 <h2>Languages and Tools</h2>
 
-<table>
-<tr>
-<td><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" height="40"/><td>
-<td><img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" height="40"/><td>
-<td><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" height="40"/><td>
-<td rowspan=6><img id="gif" src="https://tenor.com/view/programmer-gif-19019116.gif"/></td>
-</tr>
-<tr>
-<td><img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" height="40"/><td>
-<td><img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" height="40"/><td>
-<td><img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" height="40"/><td>
-</tr>
+<img align="right" height="250" width="500" src="https://tenor.com/view/programmer-gif-19019116.gif"/>
 
-<tr>
-<td><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" height="40"/><td>
-<td><img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original.svg" height="40"/><td>
-<td><img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" height="40"/><td>
-</tr>
-<tr>
-<td><img src="https://img.icons8.com/color/48/000000/flutter.png"/><td>
-<td><img src="https://img.icons8.com/color/48/000000/firebase.png"/><td>
-<td><img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/><td>
-</tr>
-</table>
+|<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" height="40"/>|<img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" height="40"/>|<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" height="40"/>|
+|-----------|-----------|-----------|
+|<img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" height="40"/>|<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" height="40"/>|<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" height="40"/>|
+|<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" height="40"/>|<img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original.svg" height="40"/>|<img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" height="40"/>|
+|<img src="https://img.icons8.com/color/48/000000/flutter.png"/>|<img src="https://img.icons8.com/color/48/000000/firebase.png"/>|<img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>|
+
+
+
 <hr>
 
 <h2>GitHub Stats</h2>
