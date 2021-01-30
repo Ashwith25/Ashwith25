@@ -16,7 +16,7 @@ I'm a computer science 💻 enthusiast with interests in programming, machine le
 </p>
 <hr>
 
-<img align="right" height="250" width="500" src="https://tenor.com/view/programmer-gif-19019116.gif"/>
+<img height="250" width="500" src="https://tenor.com/view/programmer-gif-19019116.gif"/>
 
 
 <hr>
