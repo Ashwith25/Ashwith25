@@ -19,11 +19,10 @@ I'm a computer science 💻 enthusiast with interests in programming, machine le
 <h2>Languages and Tools</h2>
 
 <img align="right" height="250" width="500" src="https://tenor.com/view/programmer-gif-19019116.gif"/>
-
-|<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" height="40"/>|<img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" height="40"/>|<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" height="40"/>|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="40"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" height="40"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="40"/>|
 |-----------|-----------|-----------|
-|<img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" height="40"/>|<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" height="40"/>|<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" height="40"/>|
-|<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" height="40"/>|<img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original.svg" height="40"/>|<img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" height="40"/>|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height="40"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="40"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="40"/>|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height="40"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pjp/php-original.svg" height="40"/>|
 |<img src="https://img.icons8.com/color/48/000000/flutter.png"/>|<img src="https://img.icons8.com/color/48/000000/firebase.png"/>|<img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>|
 
 
