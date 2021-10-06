@@ -1,26 +1,131 @@
-<h1 align="center">Hey, I'm <strong>Ashwith</strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+# <p align="center">Hey, I'm <strong><a href="http://ashwith.ml/">Ashwith</a></strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></p>
+
+<hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
+
+<img align="right" height="170" width="340" src="https://tenor.com/view/programmer-gif-19019116.gif"/>
+
+- 👀 I’m interested in Machine Learning, DSA, Open Source and Many more 😄<br/>
+- 🌱 Trying to learn new technologies and try to keep myself busy 🤵🏻 <br/>
+- 👨🏻‍💻 Currently exploring Open Source field 📱</br>
+- 💞️ I’m open for collaboration on every interesting project/stuff ✌🏻<br/>
+<br/>
+<br/>
+<hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
+
+<!-----Social Accounts------>
 
 <p align="center">
-<a width="50" href="https://www.instagram.com/ash.poojary25/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@1.0.0/icons/instagram.svg" height="30"></a>
-<a width="50" href="https://www.linkedin.com/in/ashwith-poojary-8384471a6/" ><img src="https://cdn.jsdelivr.net/npm/simple-icons@1.0.0/icons/linkedin.svg" height="30"></a>
-<a width="50" href="https://twitter.com/AshwithPoojary5" ><img src="https://cdn.jsdelivr.net/npm/simple-icons@1.0.0/icons/twitter.svg" height="30"></a>
-<a width="50" href="https://www.hackerrank.com/pashwith25" ><img src="https://cdn.jsdelivr.net/npm/simple-icons@1.0.0/icons/hackerrank.svg" height="30"></a>
+<a href="http://ashwith.ml/">
+<img border="0" alt="Ashwith Poojary" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ashwith-poojary-8384471a6/">
+<img border="0" alt="Ashwith Poojary" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
+</a>
+
+<a href="https://www.instagram.com/ash.poojary25/">
+<img border="0" alt="Ashwith Poojary" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/>
+</a>
+
+<a href="mailto:pashwith255@gmail.com">
+<img border="0" alt="Ashwith Poojary" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
+</a>
 </p>
+ 
+<hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
 
-<h2>About me</h2>
+<!------------------- Languages used by me ----------------------->
 
-<p style="text-align: justify; font-size: 15px">
-<samp>
-I'm a computer science 💻 enthusiast with interests in programming, machine learning and data analysis aiming to achieve high career growth 📈 through continuous learning process 📚 with changing technology dimensions and to contribute towards the prosperity of the organization 😊.
-</samp>
-</p>
-<hr>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Programming Languages and tools I am familar with:
 
-<img align="center" height="250" width="500" src="https://tenor.com/view/programmer-gif-19019116.gif"/>
+<a href="https://www.python.org/">
+<img border="0" alt="Python" src="https://img.icons8.com/color//000000/python--v2.png"/>
+</a>
 
+<a href="https://jupyter.org/">
+<img border="0" alt="Juyter" src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_jupyter_icon_130494.png"/>
+</a>
 
-<hr>
+<a href="https://html.com/#What_is_HTML">
+<img border="0" alt="HTML" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+</a>
 
-<p align="center">
-<img src="https://visitor-badge.glitch.me/badge?page_id=Ashwith25.Ashwith25">
-</p>
+<a href="https://en.wikipedia.org/wiki/CSS">
+<img border="0" alt="CSS" src="https://img.icons8.com/color/48/000000/css3.png"/>
+</a>
+
+<a href="https://www.javascript.com/">
+<img border="0" alt="JavaScript" src="https://img.icons8.com/color/50/000000/javascript--v1.png"/>
+</a>
+
+<br/>
+
+<a href="https://flutter.dev/">
+<img border="0" alt="Flutter" src="https://img.icons8.com/color/50/000000/flutter--v1.png"/>
+</a>
+
+<a href="https://dart.dev/">
+<img border="0" alt="Dart" src="https://img.icons8.com/color/50/000000/dart--v1.png"/>
+</a>
+
+<a href="https://nodejs.org/en/">
+<img border="0" alt="NodeJS" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+</a>
+
+<br/>
+
+<a href="https://www.mongodb.com/">
+<img border="0" alt="Mongo DB" src="https://img.icons8.com/color/50/000000/mongodb--v1.png"/>
+</a>
+
+<a href="https://www.mysql.com/">
+<img border="0" alt="MySQL" src="https://img.icons8.com/color/50/000000/mysql--v1.png"/>
+</a>
+
+<br/>
+
+<a href="https://code.visualstudio.com/">
+<img border="0" alt="VS Code" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+</a>
+
+<a href="https://git-scm.com/">
+<img border="0" alt="Git" src="https://img.icons8.com/color/48/000000/git.png"/>
+</a>
+
+<a href="https://www.tensorflow.org/">
+<img border="0" alt="Tensorflow" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
+</a>
+
+<a href="https://opencv.org/">
+<img border="0" alt="OpenCv" src="https://img.icons8.com/fluency/48/000000/opencv.png"/>
+</a>
+
+<hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
+
+<!-----Contribution figures------>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">General Stats :
+
+<img align="center" src = "https://github-readme-stats.vercel.app/api?username=ashwith25&&show_icons=true&title_color=02D752&icon_color=bb2acf&text_color=b3b3ff&bg_color=0,000000,130F40">
+
+<hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
+
+<!------------ Streak Display -------------->
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Contribution Stats :
+
+<div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwith25&theme=dark" alt="HrugVed" /></p>
+</div>
+
+<hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
+
+<!--------------- Hrugved's Contribution Graph ---------------->
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Contribution Graph :
+
+ <img src="https://activity-graph.herokuapp.com/graph?username=ashwith25&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
+ 
+ <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
+ 
+ </br>
