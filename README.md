@@ -4,7 +4,7 @@
 
 <img align="right" height="170" width="340" src="https://tenor.com/view/programmer-gif-19019116.gif"/>
 
-- 👀 I’m interested in Machine Learning, DSA, Open Source and Many more 😄<br/>
+- 👀 I’m interested in Machine Learning, DSA, Mobile development and Many more 😄<br/>
 - 🌱 Trying to learn new technologies and try to keep myself busy 🤵🏻 <br/>
 - 👨🏻‍💻 Currently exploring Open Source field 📱</br>
 - 💞️ I’m open for collaboration on every interesting project/stuff ✌🏻<br/>
