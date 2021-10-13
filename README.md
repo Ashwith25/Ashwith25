@@ -108,6 +108,10 @@
 
 <img align="center" src = "https://github-readme-stats.vercel.app/api?username=ashwith25&&show_icons=true&title_color=02D752&icon_color=bb2acf&text_color=b3b3ff&bg_color=0D1117">
 
+<br>
+
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=Ashwith25&theme=onedark&column=4&margin-w=15&margin-h=15">
+
 <hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
 
 <!------------ Streak Display -------------->
@@ -120,9 +124,6 @@
 
 <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
 
-<!--------------- Ashwith's github stats ---------------->
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ashwith25&theme=onedark&column=3&margin-w=15&margin-h=15">
 
 <!--------------- Ashwith's Contribution Graph ---------------->
 
