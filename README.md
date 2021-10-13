@@ -120,7 +120,11 @@
 
 <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
 
-<!--------------- Hrugved's Contribution Graph ---------------->
+<!--------------- Ashwith's github stats ---------------->
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ashwith25&theme=onedark&column=3&margin-w=15&margin-h=15">
+
+<!--------------- Ashwith's Contribution Graph ---------------->
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Contribution Graph :
 
