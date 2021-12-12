@@ -12,7 +12,7 @@
 - 👨🏻‍💻 Currently exploring Open Source field 📱</br>
 - 💞️ I’m open for collaboration on every interesting project/stuff ✌🏻<br/>
 <br/>
-<br/>
+<!-- <br/> -->
 <hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
 
 <!-----Social Accounts------>
@@ -36,7 +36,7 @@
 </p>
  
 <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
-
+<br>
 <!------------------- Languages used by me ----------------------->
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Programming Languages and tools I am familar with:
