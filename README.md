@@ -76,8 +76,6 @@
 <img border="0" alt="NodeJS" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 </a>
 
-<br/>
-
 <a href="https://www.mongodb.com/">
 <img border="0" alt="Mongo DB" src="https://img.icons8.com/color/50/000000/mongodb--v1.png"/>
 </a>
@@ -102,6 +100,10 @@
 
 <a href="https://opencv.org/">
 <img border="0" alt="OpenCv" src="https://img.icons8.com/fluency/48/000000/opencv.png"/>
+</a>
+
+<a href="https://streamlit.io/">
+<img border="0" alt="NodeJS" src="https://api.iconify.design/simple-icons/streamlit.svg?color=white&width=50&height=50"/>
 </a>
 
 <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
