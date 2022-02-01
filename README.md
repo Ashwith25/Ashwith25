@@ -1,7 +1,5 @@
 <!-- # <p align="left">Hey, I'm <strong><a href="http://ashwith.ml/">Ashwith</a></strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></p> -->
 
-<!-- <hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff"> -->
-
 <!-- <img align="right" height="170" width="340" src="https://tenor.com/view/programmer-gif-19019116.gif"/> -->
 
 <a href="https://app.daily.dev/Ash25"><img align="right" height="450" width="320" src="https://api.daily.dev/devcards/331a0c7386e947d1b3150063e12adefe.png?r=o3s" width="400" alt="Ashwith Poojary's Dev Card"/></a>
