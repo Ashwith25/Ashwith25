@@ -37,7 +37,7 @@
 <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
 <br>
 <!----------- Languages used by me ------------->
-
+<br>
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Programming Languages and tools I am familar with:
 
 <a href="https://www.python.org/">
