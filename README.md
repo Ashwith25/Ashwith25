@@ -4,8 +4,6 @@
 
 ### Mobile Developer | AI Enthusiast | Robotics Explorer
 
-<a href="https://app.daily.dev/Ash25"><img src="https://api.daily.dev/devcards/331a0c7386e947d1b3150063e12adefe.png?r=o3s" width="300" alt="Ashwith Poojary's Dev Card"/></a>
-
 </div>
 
 ---
@@ -84,44 +82,21 @@ Creating autonomous systems and exploring human-robot interaction
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ashwith25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=02D752&icon_color=bb2acf&text_color=c9d1d9" alt="GitHub Stats" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwith25&theme=tokyonight&hide_border=true&background=0D1117&ring=02D752&fire=bb2acf&currStreakLabel=02D752" alt="GitHub Streak" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwith25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=02D752&text_color=c9d1d9" alt="Top Languages" width="49%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ashwith25&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-
-</div>
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
 
-<a href="http://ashwith.ml/">
+<a href="https://ashwith25.github.io/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
 </a>
-<a href="https://www.linkedin.com/in/ashwith-poojary-8384471a6/">
+<a href="https://www.linkedin.com/in/ashwithpoojary/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:pashwith25@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://www.instagram.com/ash.poojary25/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<a href="https://medium.com/@pashwith25">
+<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
 </a>
 
 </div>
