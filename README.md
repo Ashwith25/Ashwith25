@@ -1,131 +1,137 @@
-<!-- # <p align="left">Hey, I'm <strong><a href="http://ashwith.ml/">Ashwith</a></strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></p> -->
+<div align="center">
 
-<!-- <img align="right" height="170" width="340" src="https://tenor.com/view/programmer-gif-19019116.gif"/> -->
+# 👋 Hi, I'm Ashwith Poojary
 
-<a href="https://app.daily.dev/Ash25"><img align="right" height="450" width="320" src="https://api.daily.dev/devcards/331a0c7386e947d1b3150063e12adefe.png?r=o3s" width="400" alt="Ashwith Poojary's Dev Card"/></a>
+### Mobile Developer | AI Enthusiast | Robotics Explorer
 
-# <p align="left">Hey, I'm <strong><a href="http://ashwith.ml/">Ashwith</a></strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></p>
+<a href="https://app.daily.dev/Ash25"><img src="https://api.daily.dev/devcards/331a0c7386e947d1b3150063e12adefe.png?r=o3s" width="300" alt="Ashwith Poojary's Dev Card"/></a>
 
-- 👀 I’m interested in Machine Learning, DSA, Mobile development and Many more 😄<br/>
-- 🌱 Trying to learn new technologies and try to keep myself busy 🤵🏻 <br/>
-- 👨🏻‍💻 Currently exploring Open Source field 📱</br>
-- 💞️ I’m open for collaboration on every interesting project/stuff ✌🏻<br/>
-<br/>
-<!-- <br/> -->
-<hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
-
-<!-----Social Accounts------>
-
-<p align="center">
-<a href="http://ashwith.ml/">
-<img border="0" alt="Ashwith Poojary" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ashwith-poojary-8384471a6/">
-<img border="0" alt="Ashwith Poojary" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
-</a>
-
-<a href="https://www.instagram.com/ash.poojary25/">
-<img border="0" alt="Ashwith Poojary" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/>
-</a>
-
-<a href="mailto:pashwith25@gmail.com">
-<img border="0" alt="Ashwith Poojary" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
-</a>
-</p>
- 
-<hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
-<br>
-<!----------- Languages used by me ------------->
-<br>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Programming Languages and tools I am familar with:
-
-<a href="https://www.python.org/">
-<img border="0" alt="Python" src="https://img.icons8.com/color//000000/python--v2.png"/>
-</a>
-
-<a href="https://jupyter.org/">
-<img border="0" alt="Juyter" src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_jupyter_icon_130494.png"/>
-</a>
-
-<a href="https://html.com/#What_is_HTML">
-<img border="0" alt="HTML" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-</a>
-
-<a href="https://en.wikipedia.org/wiki/CSS">
-<img border="0" alt="CSS" src="https://img.icons8.com/color/48/000000/css3.png"/>
-</a>
-
-<a href="https://www.javascript.com/">
-<img border="0" alt="JavaScript" src="https://img.icons8.com/color/50/000000/javascript--v1.png"/>
-</a>
-
-<br/>
-
-<a href="https://flutter.dev/">
-<img border="0" alt="Flutter" src="https://img.icons8.com/color/50/000000/flutter--v1.png"/>
-</a>
-
-<a href="https://dart.dev/">
-<img border="0" alt="Dart" src="https://img.icons8.com/color/50/000000/dart--v1.png"/>
-</a>
-
-<a href="https://nodejs.org/en/">
-<img border="0" alt="NodeJS" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-</a>
-
-<a href="https://www.mongodb.com/">
-<img border="0" alt="Mongo DB" src="https://img.icons8.com/color/50/000000/mongodb--v1.png"/>
-</a>
-
-<a href="https://www.mysql.com/">
-<img border="0" alt="MySQL" src="https://img.icons8.com/color/50/000000/mysql--v1.png"/>
-</a>
-
-<br/>
-
-<a href="https://code.visualstudio.com/">
-<img border="0" alt="VS Code" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-</a>
-
-<a href="https://git-scm.com/">
-<img border="0" alt="Git" src="https://img.icons8.com/color/48/000000/git.png"/>
-</a>
-
-<a href="https://www.tensorflow.org/">
-<img border="0" alt="Tensorflow" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
-</a>
-
-<a href="https://opencv.org/">
-<img border="0" alt="OpenCv" src="https://img.icons8.com/fluency/48/000000/opencv.png"/>
-</a>
-
-<a href="https://streamlit.io/">
-<img border="0" alt="NodeJS" src="https://api.iconify.design/simple-icons/streamlit.svg?color=white&width=50&height=50"/>
-</a>
-
-<hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
-
-<!-----Contribution figures------>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">General Stats :
-
-<img align="center" src = "https://github-readme-stats.vercel.app/api?username=ashwith25&&show_icons=true&title_color=02D752&icon_color=bb2acf&text_color=b3b3ff&bg_color=0D1117">
-
-<br>
-
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=Ashwith25&theme=onedark&column=4&margin-w=15&margin-h=15">
-
-<hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
-
-<!-------- Streak Display --------->
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Contribution Stats :
-
-<div>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwith25&theme=dark" alt="Ashwith" /></p>
 </div>
 
-<hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
+---
 
+## 🚀 About Me
+
+I'm a passionate technologist with a keen interest in building innovative solutions at the intersection of **Mobile App Development**, **Artificial Intelligence**, and **Robotics**. I believe in creating intelligent, user-centric applications that make a real-world impact.
+
+- 📱 **Mobile Development**: Crafting beautiful, performant cross-platform applications
+- 🤖 **AI & Machine Learning**: Building intelligent systems that learn and adapt
+- 🦾 **Robotics**: Exploring the fusion of hardware and software for autonomous systems
+- 🌱 **Currently Learning**: Advanced AI techniques, IoT integration, and robotic control systems
+- 💡 **Open to Collaborate**: On innovative projects in mobile AI, robotics, and automation
+
+---
+
+## 🎯 Core Focus Areas
+
+<div align="center">
+
+### 📱 Mobile App Development
+Building cross-platform mobile applications with modern frameworks and best practices
+
+### 🧠 Artificial Intelligence
+Developing ML models, computer vision systems, and intelligent applications
+
+### 🤖 Robotics
+Creating autonomous systems and exploring human-robot interaction
+
+</div>
+
+---
+
+## 💻 Tech Stack
+
+### Mobile Development
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+</p>
+
+### AI & Machine Learning
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+</p>
+
+### Robotics & IoT
+<p>
+<img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+<img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+</p>
+
+### Web & Backend
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+</p>
+
+### Tools & Platforms
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ashwith25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=02D752&icon_color=bb2acf&text_color=c9d1d9" alt="GitHub Stats" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwith25&theme=tokyonight&hide_border=true&background=0D1117&ring=02D752&fire=bb2acf&currStreakLabel=02D752" alt="GitHub Streak" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwith25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=02D752&text_color=c9d1d9" alt="Top Languages" width="49%"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ashwith25&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="http://ashwith.ml/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/ashwith-poojary-8384471a6/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:pashwith25@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.instagram.com/ash.poojary25/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 *"The future belongs to those who blend creativity with technology"*
+
+![Profile Views](https://komarev.com/ghpvc/?username=ashwith25&color=blueviolet&style=for-the-badge)
+
+</div>
