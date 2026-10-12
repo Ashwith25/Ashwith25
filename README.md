@@ -17,7 +17,6 @@ Robotics software engineer. I build the software that lets robots see, plan and 
 | [Robot-Maze-Solver](https://github.com/manasivariar/Robot-Maze-Solver) | A robot arm that sees a maze, solves it and traces the path using inverse kinematics |
 | [turtle-bot-chaser](https://github.com/Ashwith25/turtle-bot-chaser) | Multi-robot pursuit of moving targets in ROS 2 |
 | [the-ros-kitchen](https://github.com/Ashwith25/the-ros-kitchen) | ROS 2 fundamentals, as code plus a [Medium series](https://medium.com/@pashwith25) |
-| [neetcode-gpt](https://github.com/Ashwith25/neetcode-gpt) | A GPT built from scratch, including attention, a KV cache and grouped-query attention |
 | [rentscan](https://github.com/Ashwith25/rentscan) | A Chrome extension and web app that pull rental listings out of WhatsApp chats, all client-side |
 
 ### Stack
