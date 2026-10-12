@@ -7,7 +7,7 @@ $ ros2 node info /ashwith
     /coffee:          std_msgs/msg/Caffeine
     /hard_problems:   robots that don't do what they're told
   Publishers:
-    /now:             robot-cell software @ stealth startup
+    /now:             Robotics Engineer @ Stealth Startup
     /before:          SDE @ Jio Platforms · VLM research @ ASU
     /degree:          M.S. Robotics & Autonomous Systems, ASU '26
     /stack:           ROS 2 · MuJoCo · Python · C++ · PyTorch · TS
