@@ -1,4 +1,4 @@
-### Hi, I'm Ashwith. I make robots move.
+### Hi, I'm Ashwith. I give AI a body.
 
 ```console
 $ ros2 node info /ashwith
@@ -8,9 +8,11 @@ $ ros2 node info /ashwith
     /hard_problems:   robots that don't do what they're told
   Publishers:
     /now:             Robotics Engineer @ Stealth Startup
-    /before:          SDE @ Jio Platforms · VLM research @ ASU
-    /degree:          M.S. Robotics & Autonomous Systems, ASU '26
-    /stack:           ROS 2 · MuJoCo · Python · C++ · PyTorch · TS
+    /robots:          FANUC + other industrial arms
+    /ai:              RL with LLM critics · vision-language models
+    /before:          RL + VLM research @ ASU · SDE @ Jio Platforms
+    /degree:          M.S. Robotics & Autonomous Systems (AI), ASU '26
+    /stack:           Python · C++ · ROS 2 · MuJoCo · PyTorch
 ```
 
 **Things I've built**
